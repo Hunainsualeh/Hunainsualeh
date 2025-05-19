@@ -1,49 +1,62 @@
-<h1 align="center">Hi, I'm Hunain Sualeh 🚀</h1>
+<!-- 🌌 Animated Intro Banner -->
 <p align="center">
-  🎨 Creative Frontend Engineer | 🧠 ML Explorer | 🔥 Animation Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFE0&vCenter=true&width=600&lines=Hi%2C+I'm+%F0%9F%9A%80+Hunain+Sualeh;Frontend+Engineer+with+Super+Powers;Inspired+by+Tony+Stark+%7C+Ben+10+%7C+Thor;Crafting+Futuristic+Web+Experiences;MERN+%7C+GSAP+%7C+Three.js+%7C+ML+%7C+Firebase" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Crafting+Futuristic+UI%2FUX;Building+with+MERN+Stack;Animating+the+Web+with+GSAP+%26+Three.js" />
-</div>
-
----
-
-### 💻 Tech Stack I Love Working With
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,python,numpy,tailwind,threejs,firebase,gsap" /><br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-principles-green?style=for-the-badge" />
+  <img src="https://i.imgur.com/q1LCq0I.gif" alt="Space Banner" width="100%"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 About Me
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏫 **Schoolify** | A full-stack MERN LMS with real-time messaging, quizzes, and notice system. | React, Redux, Node.js, MongoDB |
-| 🧒 **Orphanage App** | Manage orphan profiles, donations, and events with React + Redux. | React, Redux, Firebase |
-| 🎉 **Event Finder** | Discover events with filters, location-based recommendations, and animations. | React, GSAP, Tailwind |
-| 💼 **Luxe Admin** | A luxury brand dashboard with sleek design and secure login. | React, Node.js, MongoDB |
-| 🏥 **Hospital System** | PHP-based hospital system with SQL-backed records. | PHP, SQL |
+🦾 I’m a developer with **Tony Stark’s precision**,  
+🧬 **Ben 10's adaptability**, and  
+⚡ **Thor’s raw power**, coding under cosmic skies.  
+
+I specialize in:
+
+- 🚀 **Futuristic UI development** with **React**, **GSAP**, **Three.js**, and **Tailwind CSS**
+- 🧠 **Machine Learning + Python** integrations
+- 🛠 Clean, animated, high-performance frontends  
+- 🌌 Building immersive web portals that feel alive
+
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/hunain-sualeh/)
 
 ---
 
-### 📊 GitHub Stats & Graphs
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunainsualeh&show_icons=true&theme=radical&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunainsualeh&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunainsualeh&layout=compact&theme=radical" height="170"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,tailwind,threejs,firebase,python,numpy,js,html,css" />
+  <br/>
+  <img src="https://img.shields.io/badge/GSAP-animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-principles-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-### 🔄 Contribution Animation
+### 🔥 Featured Projects
+
+| 🧠 Project | 💬 Description | ⚙️ Tech |
+|-----------|----------------|--------|
+| 🏫 **Schoolify** | MERN LMS with real-time chat, YouTube video lectures, quizzes & notices | MERN, Clerk, Cloudinary |
+| 🧒 **Orphanage App** | Manage orphan info, donations, events | React, Redux, Firebase |
+| 🎉 **Event Finder** | Explore & filter local events with smooth UI | React, GSAP, Tailwind CSS |
+| 💼 **Luxe Admin** | Luxury brand dashboard with pro-level UI | React, MUI, Node.js |
+| 🏥 **Hospital System** | PHP + SQL hospital portal | PHP, SQL, Bootstrap |
+
+---
+
+### 🌀 Contribution Animation
+
 ![snake gif](https://github.com/Hunainsualeh/Hunainsualeh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🧠 Dev Quote of the Day
 
 ```md
-<!-- Snake animation (needs GitHub Actions setup) -->
-![snake gif](https://github.com/Hunainsualeh/Hunainsualeh/blob/output/github-contribution-grid-snake.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
