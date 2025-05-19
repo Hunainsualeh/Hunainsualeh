@@ -1,5 +1,5 @@
 <!-- Animated Intro Banner -->
-<p align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF8C00 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
+<p align="center" style="background: linear-gradient(135deg, #FFFFFF 0%, #F0F0F0 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=1500&pause=800&color=000000&vCenter=true&width=650&lines=Hey%2C+I'm+%F0%9F%9A%80+Hunain+Sualeh;Creative+Frontend+Wizard;Master+of+GSAP+%26+Three.js;Building+Futuristic+Web+Magic;MERN+Stack+%7C+ML+%7C+Firebase" alt="Typing SVG" />
 </p>
 
@@ -40,12 +40,12 @@
 
 ---
 
-### 💻 Skills Animation Loop
+### 💻 Coding in Action
 
-> My tech stack in motion!
+> Watch my code come to life!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VOSNDc01W7Ey/giphy.gif" alt="Skills Animation" width="500" />
+  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" alt="Coding Animation" width="500" />
 </p>
 
 ---
@@ -54,6 +54,29 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunainsualeh&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Pinned Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hunainsualeh&repo=Schoolify&theme=gruvbox&hide_border=true" alt="Schoolify" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hunainsualeh&repo=Event-Finder&theme=gruvbox&hide_border=true" alt="Event Finder" />
+</p>
+
+---
+
+### 🌟 Fun Fact
+
+> Did you know? I once animated an entire webpage to dance to a beat using GSAP! 🎶
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-WebGL%20%26%20Shaders-FF4081?style{for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 ---
