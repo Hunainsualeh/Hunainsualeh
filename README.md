@@ -31,17 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats & Graphs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunainsualeh&show_icons=true&theme=radical&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunainsualeh&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunainsualeh&layout=compact&theme=radical" height="170"/>
-</p>
 
 ---
-
-### 🔄 Contribution Animation
-
-```md
-<!-- Snake animation (needs GitHub Actions setup) -->
