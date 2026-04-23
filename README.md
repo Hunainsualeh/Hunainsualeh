@@ -1,73 +1,119 @@
-# 🚀 0xHunain: Digital Architect & AI Orchestrator
+<h1 align="center">Hi, I'm Hunain Sualeh 🚀</h1>
+
+<p align="center">
+  Frontend Developer • ML Explorer • Animation & Web 3D Enthusiast
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Fusing+Pixels+with+AI+Intelligence;Next.js+Specialist+%7C+UI+Purist;Building+Mars+AI+(VOID+AI);Animating+the+Void+with+GSAP;Full-Stack+Engineer+%26+Project+Manager" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Crafting+futuristic+UI%2FUX;Working+with+MERN+%26+Django;Animating+with+GSAP+%26+Three.js;Exploring+Machine+Learning"
+    alt="Typing animation"
+  />
 </div>
 
 ---
 
-### ⚡ The Brief
-I’m **Hunain Sualeh**, a Full-Stack Developer and Associate Project Manager based in Pakistan. I don’t just build websites; I craft **high-fidelity digital experiences**. My world revolves around pixel-perfect layouts, fluid kinetic typography, and building agentic AI interfaces.
+### About Me
 
-* **Current Mission:** Orchestrating LLMs and refining **VOID AI**.
-* **Design Philosophy:** Minimalist, Ultra-Modern, and probably too much Glassmorphism.
-* **Fuel:** High-protein Pakistani cuisine (Strictly 0% fruits or vegetables 🥩).
-
----
-
-### 🛠️ The Tech Lab
-
-**Frontend Mastery**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**Backend & AI**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Motion & Tools**
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Building modern, responsive, and interactive web apps  
+- Focused on smooth UI, motion, and immersive experiences  
+- Working across full-stack + exploring AI/ML  
+- Strong focus on performance and clean architecture  
 
 ---
 
-### 🛸 High-Impact Projects
-
-* **🌑 VOID AI (Mars AI)**
-    * An agentic chat interface built with **Groq SDK** and **Next.js**. Features RAG integration and a reasoning engine that thinks faster than you can type.
-* **👗 Saaj Tradition**
-    * A bespoke e-commerce platform for Bahawalpuri apparel. Modernizing tradition with a slick, high-performance **Next.js** storefront.
-* **📊 FluxSheets**
-    * A custom spreadsheet-based productivity tool designed for granular finance tracking. Because Excel wasn't "UX" enough.
-* **🌊 AFS Foiling**
-    * An immersive frontend experience utilizing **Three.js** and **GSAP** to bring cutting-edge hydrofoil tech to the browser.
-* **🏫 Schoolify**
-    * A comprehensive MERN-stack LMS featuring real-time messaging and an integrated **Gemini API** for automated study aids.
-
----
-
-### 📈 Stats & Activity
+### Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunainsualeh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunainsualeh&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,mongodb,django,python,tailwind,threejs,firebase,gsap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React_%2B_Next.js-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js_%2B_Django-2D7CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB_%2B_PostgreSQL-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Animation-GSAP_%2B_Three.js-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
 
-### 🤝 Let's Build the Future
-I'm always down to talk **Agentic AI**, **Neo-Brutalism**, or **Electronic Engineering**. 
+### Featured Projects
 
-* **Email:** [Your Email Here]
-* **LinkedIn:** [/in/hunainsualeh](https://linkedin.com/in/hunainsualeh)
-* **Portfolio:** [Your Portfolio Link]
+| Project | Description | Tech |
+|---|---|---|
+| 🏦 **Bizzcore Solutions** | Banking ticketing system with role-based access, tickets, requests, project tracking, and real-time chat. | Next.js, Tailwind CSS |
+| 🤖 **AIFSL** | AI-based eLearning platform frontend with scalable and modern UI. | Next.js |
+| 🧠 **Yelling Ant** | Quiz system with admin panel, API integration, and ad implementation. | Node.js, React, Yarn, PostgreSQL |
+| 🌊 **AFS Foiling** | Frontend of a premium foiling app with immersive UI and smooth animations. | Next.js, React, Tailwind, GSAP |
+| 🧒 **Orphanage App** | Manage profiles, donations, and events with clean UI. | React, Redux, Firebase |
 
 ---
-<div align="center">
-  <sub>Built with precision and way too much caffeine. ☕</sub>
-</div>
+
+### Live Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### Currently Focused On
+
+- Advanced frontend architecture  
+- High-performance UI & animations  
+- Scalable full-stack systems  
+- Machine learning fundamentals  
+- Clean design systems  
+
+---
+
+### What I Build
+
+- Futuristic landing pages  
+- SaaS dashboards  
+- Admin panels  
+- LMS platforms  
+- 3D & animation-heavy web apps  
+
+---
+
+### Dev Quote
+
+> “Great UI is invisible. Great UX feels effortless.”
+
+---
+
+### Fun Fact
+
+Blending **UI design**, **animation**, and **logic** to create smooth and modern web experiences.
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
